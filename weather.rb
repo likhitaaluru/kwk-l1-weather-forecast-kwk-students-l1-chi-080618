@@ -43,7 +43,7 @@ def farenheit (weather)
   puts temp_2/1.8==final_temp.to_s
 end
 
-farenheit
+farenheit(weather)
 # Hint - how can we find the algorithm to convert Farenheit to Celsius?
 
 
